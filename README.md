@@ -1,3 +1,4 @@
+
 # HireAI
 
 ![HireAI Banner](https://raw.githubusercontent.com/kaihere14/HireAI/main/client/public/next.svg)
@@ -20,18 +21,20 @@ HireAI bridges the gap between talent and opportunity through automation. The pl
 
 ## ✨ Features
 
-- **AI-Powered Interviews**: Real-time conversational AI that asks relevant technical questions based on job descriptions.
-- **Voice Intelligence**: 
-    - **Transcription**: Convert candidate speech to text using Whisper-grade processing.
-    - **Speech Synthesis**: AI-generated voice responses for a natural interview flow.
-- **Interactive Job Board**: Dynamic listing of open roles with specific skill matching.
-- **Modern UI/UX**: 
-    - Parallax background effects and liquid blobs.
-    - Glassmorphism design language.
-    - Dark/Light mode support.
-    - Scroll-reveal animations for immersive storytelling.
-- **Candidate Portal**: Secure area for candidates to track applications and participate in screening.
-
+- **Real-time AI Interview Interface**: Immersive interview environment featuring live video streaming, microphone controls, and automated session management with status indicators (Listening, Thinking, Speaking).
+- **Voice Intelligence**:
+    - **Speech-to-Text**: Real-time transcription of candidate responses using browser-based media recording.
+    - **Advanced TTS**: High-quality AI voice responses powered by Groq PlayAI with built-in browser speech synthesis fallback.
+    - **Visual Feedback**: Animated waveforms that provide visual cues during audio input and AI speech.
+- **Dynamic Session Tracking**:
+    - **Live Transcript**: Auto-scrolling conversation history for both candidate and AI to ensure context clarity.
+    - **Progress Monitoring**: Real-time interview timer and session control modals for starting and ending interviews.
+- **Interactive Job Portal**:
+    - **Smart Job Board**: Dynamic listing of open roles with specific skill matching and application workflows.
+    - **Interview Scheduling**: Integrated miniature calendar for tracking application deadlines and interview availability windows.
+- **Modern UI/UX**:
+    - **Immersive Design**: Parallax background effects, glassmorphism design language, and liquid blob animations.
+    - **Responsive Experience**: Dark/Light mode support and scroll-reveal animations for a fluid user journey.
 ## 🛠 Tech Stack
 
 ### Frontend
