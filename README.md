@@ -30,11 +30,12 @@ HireAI bridges the gap between talent and opportunity through automation. The pl
     - **Live Transcript**: Auto-scrolling conversation history for both candidate and AI to ensure context clarity.
     - **Progress Monitoring**: Real-time interview timer and session control modals for starting and ending interviews.
 - **Interactive Job Portal**:
-    - **Smart Job Board**: Dynamic listing of open roles with specific skill matching and application workflows.
+    - **Smart Job Board**: Dynamic listing of open roles (AI Research, Frontend, Backend, Design) with specific skill matching and application workflows.
     - **Interview Scheduling**: Integrated miniature calendar for tracking application deadlines and interview availability windows.
 - **Modern UI/UX**:
-    - **Immersive Design**: Parallax background effects, glassmorphism design language, and liquid blob animations.
-    - **Responsive Experience**: Dark/Light mode support and scroll-reveal animations for a fluid user journey.
+    - **Immersive Design**: Interactive liquid blob background with mouse-parallax effects and glassmorphism design language.
+    - **Responsive Experience**: Seamless Dark/Light mode support and scroll-reveal animations using Intersection Observer for a fluid user journey.
+    - **Animated Hero Section**: High-impact landing page with dynamic typography and visual overlays.
 ## 🛠 Tech Stack
 
 ### Frontend
